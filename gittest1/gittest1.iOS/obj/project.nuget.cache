@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DyUlbqJF1kYNEKbGuujXzng9lXXS/R3PmrInuNSdc3YZLTnw19DDWhjgzur4Ae0WZ6Ruh3WP5GksLoxTOw3Pyg==",
+  "success": true,
+  "projectFilePath": "/Users/SU20380276/Projects/gittest1/gittest1/gittest1.iOS/gittest1.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/SU20380276/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/SU20380276/.nuget/packages/xamarin.essentials/1.7.4/xamarin.essentials.1.7.4.nupkg.sha512",
+    "/Users/SU20380276/.nuget/packages/xamarin.forms/5.0.0.2545/xamarin.forms.5.0.0.2545.nupkg.sha512"
+  ],
+  "logs": []
+}
