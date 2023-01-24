@@ -1,0 +1,31 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{88F4A3BB-6A2F-43D8-819D-704C65CBBF98}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.gittest1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.gittest1.Android FirstBuild="True" PreferredExecutionTarget="Android.emulator_31" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.gittest1.iOS FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.emulator_31" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="gittest1/gittest1/file1.txt">
+    <Files>
+      <File FileName="gittest1/gittest1/MainPage.xaml.cs" />
+      <File FileName="gittest1/gittest1/MainPage.xaml" />
+      <File FileName="gittest1/gittest1/file1.txt" Line="2" Column="1" />
+      <File FileName="gittest1/gittest1/EmptyTextFile.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gittest1" expanded="True">
+            <Node name="gittest1" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
